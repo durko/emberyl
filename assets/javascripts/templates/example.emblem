@@ -1,0 +1,8 @@
+
+section
+  button click='showAlert'
+    | Trigger the 'showAlert' event
+
+section
+  button click='showAnotherAlert'
+    | Trigger the 'showAnotherAlert' event

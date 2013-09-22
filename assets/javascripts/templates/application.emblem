@@ -1,0 +1,15 @@
+header
+  h1 = applicationName
+
+section
+  | This is a section above the main outlet
+
+section
+  button click='toggleContent' Toggle collapsed content
+  if contentVisible
+    | This content is initially hidden.
+
+section
+  outlet
+
+footer &copy; 2013 Your name here

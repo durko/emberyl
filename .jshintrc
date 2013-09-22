@@ -1,0 +1,20 @@
+{
+    "browser": true,
+    "jquery": true,
+    "curly": true,
+    "eqeqeq": true,
+    "esnext": true,
+    "indent": 4,
+    "quotmark": "single",
+    "trailing": true,
+    "undef": true,
+    "unused": true,
+    "white": false,
+    "predef": [
+        "DS",
+        "Em",
+        "define",
+        "require",
+        "requirejs"
+    ]
+}
